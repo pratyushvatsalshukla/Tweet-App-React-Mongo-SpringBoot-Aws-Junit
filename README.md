@@ -1,4 +1,26 @@
-# INFO : Backend is available on master branch. Frontend is in Main branch.
+# INFO : For Backend, goto Master Branch.
+
+### SIGN-UP
+![Login](https://user-images.githubusercontent.com/54927584/193907695-aa160979-8009-4977-bf10-5fc488485c2c.jpg)
+
+### SIGN-IN
+![SignUp](https://user-images.githubusercontent.com/54927584/193907816-c0251988-3f32-469c-8612-85dbe5b7f9c3.jpg)
+
+
+### Dashboard
+![Dashboard](https://user-images.githubusercontent.com/54927584/193907874-fb8a30b6-1109-4c74-9157-4be1309cfbde.jpg)
+
+### All-Tweets
+![All Tweets](https://user-images.githubusercontent.com/54927584/193907920-122bd9d9-3b25-4e29-8bb8-27f4dee42dd9.jpg)
+
+
+### S3-Bucket
+![s3bucket-frontend](https://user-images.githubusercontent.com/54927584/193907987-cc5bf5b9-ea53-44a6-8299-c11a9bc033c3.jpg)
+
+
+
+
+
 
 # Getting Started with Create React App
 
